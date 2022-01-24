@@ -10,6 +10,7 @@ Just writing a few ideas to start getting acquainted with crypto data.
 - https://decentrader.com/charts/stock-to-flow-model/
 - https://www.lookintobitcoin.com
 - https://github.com/GamestonkTerminal/GamestonkTerminal
+- https://www.coingecko.com/en/api
 
 ## 2. Evaluate datasources
 Evaluate datasources on the different features offered through API.
