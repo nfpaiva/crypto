@@ -15,6 +15,12 @@ Just writing a few ideas to start getting acquainted with crypto data.
 ## 2. Evaluate datasources
 Evaluate datasources on the different features offered through API.
 Decide which datasources should be tested first - generate a rank?
+an example of datasources review 
+- https://towardsdatascience.com/top-5-best-cryptocurrency-apis-for-developers-32475d2eb749
+- https://hackernoon.com/the-5-best-cryptocurrency-data-apis-in-2020-reviewed-7e1d32md
+- 
+![image](https://user-images.githubusercontent.com/32304147/150879094-87bd387f-c155-4c56-b1ca-695910bcfdc6.png)
+
 
 |Datasource|Paid/Free?|Metrics Summary|Data Latency|Granularity|Historical Data Available| Other?|
 |---|---|---|---|---|---|---|
