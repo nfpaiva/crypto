@@ -18,7 +18,8 @@ Decide which datasources should be tested first - generate a rank?
 an example of datasources review 
 - https://towardsdatascience.com/top-5-best-cryptocurrency-apis-for-developers-32475d2eb749
 - https://hackernoon.com/the-5-best-cryptocurrency-data-apis-in-2020-reviewed-7e1d32md
-- 
+- https://medium.com/coinmonks/5-best-crypto-market-data-aggregators-and-apis-3a1109e6839f
+
 ![image](https://user-images.githubusercontent.com/32304147/150879094-87bd387f-c155-4c56-b1ca-695910bcfdc6.png)
 
 
